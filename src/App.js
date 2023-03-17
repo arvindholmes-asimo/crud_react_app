@@ -8,7 +8,7 @@ import PageNotFound from './components/pageNotFound';
 import Adduser from './components/Adduser';
 import EditUser from './components/edit';
 import User from './components/Users';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 
 function App() {
   return (
