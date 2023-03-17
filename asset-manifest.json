@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/crud_react_app/static/css/main.073c9b0a.css",
-    "main.js": "/crud_react_app/static/js/main.882482ef.js",
-    "static/js/787.4e822e5a.chunk.js": "/crud_react_app/static/js/787.4e822e5a.chunk.js",
-    "index.html": "/crud_react_app/index.html",
-    "main.073c9b0a.css.map": "/crud_react_app/static/css/main.073c9b0a.css.map",
-    "main.882482ef.js.map": "/crud_react_app/static/js/main.882482ef.js.map",
-    "787.4e822e5a.chunk.js.map": "/crud_react_app/static/js/787.4e822e5a.chunk.js.map"
+    "main.css": "/arvindholmes-asimo/crud_react_app/static/css/main.073c9b0a.css",
+    "main.js": "/arvindholmes-asimo/crud_react_app/static/js/main.c737175a.js",
+    "static/js/787.4e822e5a.chunk.js": "/arvindholmes-asimo/crud_react_app/static/js/787.4e822e5a.chunk.js",
+    "index.html": "/arvindholmes-asimo/crud_react_app/index.html",
+    "main.073c9b0a.css.map": "/arvindholmes-asimo/crud_react_app/static/css/main.073c9b0a.css.map",
+    "main.c737175a.js.map": "/arvindholmes-asimo/crud_react_app/static/js/main.c737175a.js.map",
+    "787.4e822e5a.chunk.js.map": "/arvindholmes-asimo/crud_react_app/static/js/787.4e822e5a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.882482ef.js"
+    "static/js/main.c737175a.js"
   ]
 }
