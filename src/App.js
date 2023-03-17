@@ -8,10 +8,11 @@ import PageNotFound from './components/pageNotFound';
 import Adduser from './components/Adduser';
 import EditUser from './components/edit';
 import User from './components/Users';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route, HashRouter } from 'react-router-dom';
 
 function App() {
   return (
+    <HashRouter>
     <Router>
       <div className="App">
         <Navbar />
@@ -29,6 +30,8 @@ function App() {
 
       </div>
     </Router>
+
+    </HashRouter>
   );
 }
 
