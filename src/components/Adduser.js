@@ -3,6 +3,8 @@ import { useNavigate } from "react-router-dom";
 import axios from 'axios';
 
 
+//navigate directs to the particular page
+
 export default function Adduser() {
 
     let navigate = useNavigate();
