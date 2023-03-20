@@ -8,7 +8,7 @@ const Navbar = () => {
         <div className="" >
             <nav className="navbar navbar-expand-md navbar-dark bg-primary  mb-4">
                 <div className="container ">
-                    <a className="navbar-brand mx-3" href="/">React Todo</a>
+                    <Link className="navbar-brand mx-3" to="/">React Todo</Link>
                     <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
                         <span className="navbar-toggler-icon" />
                     </button>
